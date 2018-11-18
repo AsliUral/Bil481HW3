@@ -1,0 +1,1 @@
+web: java -jar target/Bil481HW3-1.0-SNAPSHOT.jar
